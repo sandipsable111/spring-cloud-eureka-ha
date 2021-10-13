@@ -1,8 +1,5 @@
 # spring-cloud-eureka-ha
 
-## Reference Link 
-https://medium.com/swlh/spring-cloud-high-availability-for-eureka-b5b7abcefb32
-
 ## Starting Up Eureka Server Cluster and Client on Local Machine
 In order to start this entire cluster in your local machine, you will have to do some additional configurations in C:\Windows\System32\drivers\etc\hosts file.
 
@@ -31,3 +28,6 @@ Hit the below URLS:
 `http://peer-1-server.com:9001/`
 `http://peer-2-server.com:9002/`
 `http://peer-3-server.com:9003/`
+
+## Reference Link 
+https://medium.com/swlh/spring-cloud-high-availability-for-eureka-b5b7abcefb32
